@@ -2,4 +2,4 @@
 <br/>
 
 ### Language and Tools
-React, React-Redux, JavaScript, HTML, SASS
+React, React-Redux, Typescript, JavaScript, HTML, SASS
